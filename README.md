@@ -1,5 +1,5 @@
 # comp106-final
-Final project for Multimedia Programming
+Final project for Multimedia Programming    
 To run this project locally:    
  - Install python v3    
  - In terminal, navigate to the project's root directory and run "python3 -m http.server"    
